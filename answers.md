@@ -59,5 +59,19 @@ Author: Izaak White <ww655421@ohio.edu>
 Date:   Tue Sep 6 16:36:12 2022 -0400
 
     Intial commit
+Answer 9:
+n branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   answers.md
+Answer 10: No
+Answer 11: I get an error message sayingthe remote contains work I do not have locally
+Answer 12: Yes
+Answer 13: .  ..  .git  .gitignore README.md
+
+
 
 
